@@ -1,0 +1,8 @@
+# variáveis de ambiente
+.env
+
+# ambiente python
+venv/
+
+# pastas geradas pelo python
+__pycache__/

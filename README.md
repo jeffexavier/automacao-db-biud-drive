@@ -14,13 +14,13 @@ O projeto Automação-Hubspot é uma ferramenta que realiza extrações de dados
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/jeffexavier/automação-hubspot.git
+   git clone https://github.com/jeffexavier/automacao-db-biud-drive.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd automação-hubspot
+   cd automacao-db-biud-drive
    ```
 
 3. Instale as dependências:
